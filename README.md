@@ -14,3 +14,5 @@ Gazania species are grown for the brilliant colour of their flowerheads which ap
 
 The genus occurs from low-altitude sands to alpine meadows in South Africa, Swaziland, Mozambique, Tanzania, and Angola. Additionally, species are naturalised in Australia, New Zealand, the Mediterranean, and California.
 
+This is a beautiful flower.
+
